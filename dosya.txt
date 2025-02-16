@@ -1,1 +1,1 @@
-vless://2e6c4e37-edf8-4fd1-8ce5-8558a2cc1cb7@proxy.wegh.online:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=mars.wegh.ru&fp=chrome&type=ws&sni=mars.wegh.ru#german
+Sshvpn
